@@ -52,14 +52,16 @@ Copy code
 ```bash
 git clone https://github.com/your-username/wordle-game.git
 cd wordle-game
+```
 2. Install dependencies
-bash
-Copy code
+
+```
 pip install pygame customtkinter
+```
 3. Run the game
-bash
-Copy code
+```
 python wordle_game.py
+```
 🎯 How to Play
 Start the game from the Pygame main menu.
 
